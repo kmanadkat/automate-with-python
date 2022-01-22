@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Blouse with Ruffled Collar",
+        "price": 49.99,
+        "imgurl": "/static/img/98894-A.jpg"
+    },
+    {
+        "title": "Pants",
+        "price": 49.99,
+        "imgurl": "/static/img/00286-B.jpg"
+    },
+    {
+        "title": "Jersey Dress",
+        "price": 19.99,
+        "imgurl": "/static/img/96113-B.jpg"
+    },
+    {
+        "title": "T-shirt",
+        "price": 6.99,
+        "imgurl": "/static/img/96771-B.jpg"
+    },
+    {
+        "title": "T-shirt",
+        "price": 6.99,
+        "imgurl": "/static/img/96771-A.jpg"
+    },
+    {
+        "title": "Blazer",
+        "price": 49.99,
+        "imgurl": "/static/img/93086-B.jpg"
+    }
+]

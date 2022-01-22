@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Blouse with Embroidery",
+        "price": 59.99,
+        "imgurl": "/static/img/96236-C.jpg"
+    },
+    {
+        "title": "Wide-cut Cotton Top",
+        "price": 34.99,
+        "imgurl": "/static/img/99663-A.jpg"
+    },
+    {
+        "title": "Pleated Skirt",
+        "price": 54.99,
+        "imgurl": "/static/img/00268-B.jpg"
+    },
+    {
+        "title": "Coat",
+        "price": 69.99,
+        "imgurl": "/static/img/98209-A.jpg"
+    },
+    {
+        "title": "Wide-leg Pants",
+        "price": 49.99,
+        "imgurl": "/static/img/93158-A.jpg"
+    },
+    {
+        "title": "Top",
+        "price": 29.99,
+        "imgurl": "/static/img/00948-B.jpg"
+    },
+    {
+        "title": "Knit Mohair-blend Sweater",
+        "price": 69.99,
+        "imgurl": "/static/img/94321-B.jpg"
+    },
+    {
+        "title": "Dress",
+        "price": 69.99,
+        "imgurl": "/static/img/98086-A.jpg"
+    },
+    {
+        "title": "T-shirt with Embroidery",
+        "price": 29.99,
+        "imgurl": "/static/img/01007-C.jpg"
+    }
+]

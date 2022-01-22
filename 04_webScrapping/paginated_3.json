@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Short Sweatshirt",
+        "price": 24.99,
+        "imgurl": "/static/img/96230-A.jpg"
+    },
+    {
+        "title": "Long-sleeved Jersey Top",
+        "price": 12.99,
+        "imgurl": "/static/img/73840-P.jpg"
+    },
+    {
+        "title": "Long-sleeved Jersey Top",
+        "price": 12.99,
+        "imgurl": "/static/img/73840-Q.jpg"
+    },
+    {
+        "title": "Jersey Dress",
+        "price": 19.99,
+        "imgurl": "/static/img/96113-C.jpg"
+    },
+    {
+        "title": "Short Sweatshirt",
+        "price": 24.99,
+        "imgurl": "/static/img/96230-C.jpg"
+    },
+    {
+        "title": "Crinkled Flounced Blouse",
+        "price": 24.99,
+        "imgurl": "/static/img/00959-A.jpg"
+    },
+    {
+        "title": "Bib Overall Dress",
+        "price": 29.99,
+        "imgurl": "/static/img/94323-B.jpg"
+    },
+    {
+        "title": "Loose-knit Sweater",
+        "price": 17.99,
+        "imgurl": "/static/img/71342-J.jpg"
+    },
+    {
+        "title": "Skinny Regular Jeans",
+        "price": 29.99,
+        "imgurl": "/static/img/94453-B.jpg"
+    }
+]

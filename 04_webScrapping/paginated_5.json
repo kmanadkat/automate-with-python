@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Hooded Top",
+        "price": 29.99,
+        "imgurl": "/static/img/60135-A.jpg"
+    },
+    {
+        "title": "Lyocell-blend Blouse",
+        "price": 34.99,
+        "imgurl": "/static/img/91865-A.jpg"
+    },
+    {
+        "title": "Bib Overall Dress",
+        "price": 29.99,
+        "imgurl": "/static/img/94323-A.jpg"
+    },
+    {
+        "title": "Wide-leg Pants",
+        "price": 34.99,
+        "imgurl": "/static/img/92942-B.jpg"
+    },
+    {
+        "title": "Ankle-length Slim-fit Pants",
+        "price": 24.99,
+        "imgurl": "/static/img/93270-A.jpg"
+    },
+    {
+        "title": "Short Sweatshirt",
+        "price": 9.99,
+        "imgurl": "/static/img/96230-D.jpg"
+    },
+    {
+        "title": "V-neck Blouse",
+        "price": 17.99,
+        "imgurl": "/static/img/97571-B.jpg"
+    },
+    {
+        "title": "Short Skirt",
+        "price": 24.99,
+        "imgurl": "/static/img/92740-A.jpg"
+    },
+    {
+        "title": "Mesh T-shirt",
+        "price": 17.99,
+        "imgurl": "/static/img/94984-A.jpg"
+    }
+]

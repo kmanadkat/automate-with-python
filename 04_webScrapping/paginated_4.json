@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Henley-style Top",
+        "price": 12.99,
+        "imgurl": "/static/img/34975-K.jpg"
+    },
+    {
+        "title": "Joggers",
+        "price": 17.99,
+        "imgurl": "/static/img/59851-A.jpg"
+    },
+    {
+        "title": "Skirt with Lacing",
+        "price": 34.99,
+        "imgurl": "/static/img/93811-A.jpg"
+    },
+    {
+        "title": "Top with Tie",
+        "price": 17.99,
+        "imgurl": "/static/img/94967-A.jpg"
+    },
+    {
+        "title": "Joggers",
+        "price": 34.99,
+        "imgurl": "/static/img/92905-A.jpg"
+    },
+    {
+        "title": "Chiffon Dress with Flounce",
+        "price": 49.99,
+        "imgurl": "/static/img/97504-A.jpg"
+    },
+    {
+        "title": "Skirt with Lacing",
+        "price": 34.99,
+        "imgurl": "/static/img/93811-B.jpg"
+    },
+    {
+        "title": "V-neck Top",
+        "price": 9.99,
+        "imgurl": "/static/img/95168-D.jpg"
+    },
+    {
+        "title": "Hooded Jacket",
+        "price": 29.99,
+        "imgurl": "/static/img/52378-D.jpg"
+    }
+]

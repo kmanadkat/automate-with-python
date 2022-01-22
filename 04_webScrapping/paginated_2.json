@@ -1,0 +1,47 @@
+[
+    {
+        "title": "Fitted Dress",
+        "price": 34.99,
+        "imgurl": "/static/img/94766-A.jpg"
+    },
+    {
+        "title": "V-neck Jumpsuit",
+        "price": 69.99,
+        "imgurl": "/static/img/91696-C.jpg"
+    },
+    {
+        "title": "Chiffon Dress",
+        "price": 54.99,
+        "imgurl": "/static/img/93745-A.jpg"
+    },
+    {
+        "title": "Skinny High Waist Jeans",
+        "price": 39.99,
+        "imgurl": "/static/img/65763-E.jpg"
+    },
+    {
+        "title": "Super Skinny High Jeans",
+        "price": 19.99,
+        "imgurl": "/static/img/70745-D.jpg"
+    },
+    {
+        "title": "Oversized Denim Jacket",
+        "price": 19.99,
+        "imgurl": "/static/img/94706-A.jpg"
+    },
+    {
+        "title": "Short Sweatshirt",
+        "price": 24.99,
+        "imgurl": "/static/img/96230-B.jpg"
+    },
+    {
+        "title": "Long-sleeved Jersey Top",
+        "price": 12.99,
+        "imgurl": "/static/img/73840-F.jpg"
+    },
+    {
+        "title": "Skinny High Waist Jeans",
+        "price": 39.99,
+        "imgurl": "/static/img/65763-A.jpg"
+    }
+]
